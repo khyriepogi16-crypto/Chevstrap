@@ -1,16 +1,56 @@
 
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
-# FFLAGS DISABLED BY ROBLOX ITSELF
+"FLogNetwork": "7",
+"FFlagHandleAltEnterFullscreenManually": "False",
+"FIntRenderShadowIntensity": "0",
+"FFlagDisablePostFx": "True",
+"FIntTerrainArraySliceSize": "0",
+"DFIntTaskSchedulerTargetFps": "240",
+"DFIntTextureQualityOverride": "0",
+"FIntFullscreenTitleBarTriggerDelayMillis": "18000000",
+"DFFlagTextureQualityOverrideEnabled": "True",
+"FFlagDebugGraphicsPreferD3D11FL10": "True",
+"DFFlagDebugRenderForceTechnologyVoxel": "True",
+"DFIntCanHideGuiGroupId": "32380007",
+"FFlagDebugForceFutureIsBrightPhase3": "True",
+"FIntDebugForceMSAASamples": "1",
+"FFlagDebugForceFutureIsBrightPhase2": "True",
+"FFlagDebugGraphicsPreferD3D11": "True",
+"FIntFontSizePadding": "3",
+"DFIntPerformanceControlTextureQualityBestUtility": "-1",
+"FIntDebugTextureManagerSkipMips": "12",
+"FFlagDebugDisplayFPS": "True",
+"DFFlagDebugPauseVoxelizer": "True",
+"DFIntDebugFRMQualityLevelOverride": "1",
+"FFlagDebugSkyGray": "true",
+"FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
+"FFlagPushFrameTimeToHarmony": "True",
+"FFlagUISInputQueueBatchesTogether": "False",
+"FFlagUISInputSignalUsesLastFrameInput": "True",
+"FFlagDebugKeyboardInputEventsBypassThrottleMS": "True",
+"FFlagMSRefactor5": "False",
+"FFlagKeyboardInputUseRawSignal": "True",
+"FFlagOptimizeNetwork": "True",
+"FFlagOptimizeNetworkTransport": "True",
+"FFlagOptimizeNetworkRouting": "True",
+"DFIntOptimizePingThreshold": "50",
+"DFIntNetworkLatencyTolerance": "1",
+"DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
+"DFIntPlayerNetworkUpdateRate": "60",
+"DFIntPlayerNetworkUpdateQueueSize": "20",
+"DFIntConnectionMTUSize": "900",
+"FFlagOptimizeServerTickRate": "True",
+"DFIntServerTickRate": "60",
+"DFIntNetworkPrediction": "120",
+"DFIntTimeBetweenSendConnectionAttemptsMS": "200",
+"FFlagKeyboardEventBypassThrottle": "True",
+"FFlagKeyboardInputFastPath": "True",
+"FFlagInputLatencyCompensationV2": "True",
+"FFlagInputSendTimeWithEvent": "False",
+"FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+"DFIntPerformanceControlFrameTimeMax": "1",
+"DFIntPerformanceControlFrameTimeMaxUtility": "-1",
+"DFIntAnimatorThrottleMaxFramesToSkip": "1",
+"FFlag
 
 
 <div align="center">
@@ -66,6 +106,7 @@ A: No. As long as you're only running the native Roblox client from an official 
 #### Q: Can you add Discord Rich Presence?
 
 A: No. There is no official Discord RPC client for Android. There are some unofficial ones, but they’re risky and won’t be included.
+
 
 
 
